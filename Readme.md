@@ -1,8 +1,7 @@
 Github 저장소의 Readme.md  
 :full_moon_with_face: :blush: :seedling: :bell: :koala: :octocat:  
 # *이모티콘 예제*
->2019.09.24  
->이모티콘 예제  
+>+ 2019.09.24 이모티콘 예제  
 
 ## *bootstrap5*
 ```html
@@ -18,7 +17,7 @@ Github 저장소의 Readme.md
 <i class="glyphicon glyphicon-thumbs-up"></i>
 <i class="glyphicon glyphicon-heart"></i>
 ```
-
+![bootstrap](https://user-images.githubusercontent.com/32647144/65471612-c0163c00-deaa-11e9-89c4-79d75120d6af.png)  
 ## *GooGle fonts*
 ```html
 <head>
@@ -40,3 +39,4 @@ Github 저장소의 Readme.md
 <i class="material-icons" style="font-size:60px;color:lightblue;">cloud</i>
     
 ```
+![google](https://user-images.githubusercontent.com/32647144/65471613-c0163c00-deaa-11e9-958f-8b4efd1ba97f.png)
