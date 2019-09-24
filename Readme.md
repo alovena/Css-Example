@@ -20,6 +20,7 @@ Github 저장소의 Readme.md
 ```
 -Second Step : You can add iteric source in html body
   
+### *The Result*
 ![bootstrap](https://user-images.githubusercontent.com/32647144/65471612-c0163c00-deaa-11e9-89c4-79d75120d6af.png)  
 ## *GooGle fonts*
 ```html
@@ -45,4 +46,5 @@ Github 저장소의 Readme.md
 ```
 -second Step : You can add iteric source in html body
   
+### *The Result*
 ![google](https://user-images.githubusercontent.com/32647144/65471613-c0163c00-deaa-11e9-958f-8b4efd1ba97f.png)
