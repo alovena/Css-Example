@@ -9,7 +9,7 @@ Github 저장소의 Readme.md
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
 ```
-+ First Step : You can add link source in html head  
+-First Step : You can add link source in html head  
 ```html
 <i class="glyphicon glyphicon-cloud"></i>
 <i class="glyphicon glyphicon-remove"></i>
@@ -18,7 +18,8 @@ Github 저장소의 Readme.md
 <i class="glyphicon glyphicon-thumbs-up"></i>
 <i class="glyphicon glyphicon-heart"></i>
 ```
-+ Second Step : You can add iteric source in html body
+-Second Step : You can add iteric source in html body
+  
 ![bootstrap](https://user-images.githubusercontent.com/32647144/65471612-c0163c00-deaa-11e9-89c4-79d75120d6af.png)  
 ## *GooGle fonts*
 ```html
@@ -26,7 +27,7 @@ Github 저장소의 Readme.md
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
 </head>
 ```
-+ first Step : You can add link source in html head  
+-first Step : You can add link source in html head
 ```html
 <p>Some Google icons:</p>
 <i class="material-icons">cloud</i>
@@ -42,5 +43,6 @@ Github 저장소의 Readme.md
 <i class="material-icons" style="font-size:60px;color:lightblue;">cloud</i>
     
 ```
-+ second Step : You can add iteric source in html body 
+-second Step : You can add iteric source in html body
+  
 ![google](https://user-images.githubusercontent.com/32647144/65471613-c0163c00-deaa-11e9-958f-8b4efd1ba97f.png)
