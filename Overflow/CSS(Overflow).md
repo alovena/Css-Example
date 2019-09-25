@@ -11,11 +11,11 @@ overflow 속성은 크게 4가지가 있다.
 -scroll : 크기를 벗어나면 content에 스크롤이 생성된다.  
 -auto : scroll 과 비슷하지만 필요할때만 스크롤을 보여준다.  
 <blockquote style="background:#30A9DE">
-    :exclamation:Note:exclamation: : overflow 속성은 오직 block 요소에만 적용됩니다.  
-    즉, div p h1..h6 section 등에만 적용되고 
-    inline 요소에는 적용되지 않습니다.  
+    :exclamation:Note:exclamation: : overflow 속성은 오직 block 요소에만 적용됩니다.</br>
+    즉, div p h1..h6 section 등에만 적용되고</br>
+    inline 요소에는 적용되지 않습니다.</br>
     :boom: a,img,span tag :boom:
-    하지만 inline->block 요소로 바꿔주면 가능합니다.
+    하지만 inline->block 요소로 바꿔주면 가능합니다.</br>
 </blockquote>
 
 ```css
@@ -23,6 +23,8 @@ overflow 속성은 크게 4가지가 있다.
         display:block;
     }
 ```
+like this
+
 
 예제를 살펴보겠습니다.
 ```html
@@ -46,6 +48,7 @@ overflow 속성은 크게 4가지가 있다.
                 Great art is an instant arrested in eternity.
     </div>
 ```
+라는 html 소스에서 css만 바꿔 적용시켜보겠습니다.  
 ## *overflow:visible*
 ```css
     .overflow_Test{
@@ -57,8 +60,9 @@ overflow 속성은 크게 4가지가 있다.
     }
 ```
 ## The Result : ↓
-![visible](https://user-images.githubusercontent.com/32647144/65564997-a7c91e80-df89-11e9-8c35-ca66c3bc2db2.png)
-  
+![visible](https://user-images.githubusercontent.com/32647144/65564997-a7c91e80-df89-11e9-8c35-ca66c3bc2db2.png)  
+### *크기가 벗어남에도 불구하고 모든 내용을 보여주고 있습니다.*
+
 ## *overflow:hidden*
 ```css
     .overflow_Test{
@@ -71,6 +75,7 @@ overflow 속성은 크게 4가지가 있다.
 ```
 ## The Result : ↓
 ![hidden](https://user-images.githubusercontent.com/32647144/65564995-a7308800-df89-11e9-8e46-271a7bb6bf3f.png)  
+### *크기가 벗어나면 크기만큼만 내용을 보여주고 있습니다.*  
 ## *overflow:scroll*
 ```css
     .overflow_Test{
@@ -83,6 +88,7 @@ overflow 속성은 크게 4가지가 있다.
 ```
 ## The Result : ↓
 ![scroll](https://user-images.githubusercontent.com/32647144/65564996-a7308800-df89-11e9-83a6-a622eedcc20d.png)  
+### *크기가 벗어나면 스크롤을 생성하여 내용을 보여주고 있습니다.*  
 ## *overflow:auto*
 ```css
     .overflow_Test{
@@ -95,3 +101,4 @@ overflow 속성은 크게 4가지가 있다.
 ```
 ## The Result : ↓
 ![auto](https://user-images.githubusercontent.com/32647144/65564993-a7308800-df89-11e9-8714-9375ef0fc3cb.png)  
+### *크기가 벗어나면 필요한 부분만 스크롤을 생성하여 내용을 보여주고 있습니다.*  
