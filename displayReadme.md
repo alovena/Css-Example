@@ -1,9 +1,9 @@
 Github 저장소의 Readme.md  
 :heart_eyes: :grin: :open_mouth: :muscle: :pig:
-* #Display 예제  
+# *Display 예제*  
 > +2019.09.25 Display 예제
 
-* ##inline
+## *Block->Inline*
 ```html
     <div>
         <div class="div_display">div1</div>
@@ -36,4 +36,26 @@ Github 저장소의 Readme.md
         border:1px solid green;
     }
 ```
--CSS code
+-CSS code ...설명설명
+
+### Ther Reuslt
+
+## *Inline->Block*
+```html
+    <div>
+            <a class="a_display" href="#">link1</a>
+            <a class="a_display" href="#">link2</a>
+    </div>
+```
+-HTML code 
+```css
+    .a_display{
+        display: block;
+        border:1px solid pink;
+    }
+```
+-CSS code ...설명설명
+
+### Ther Reuslt
+
+### Source code : ↓
