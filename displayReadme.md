@@ -5,7 +5,7 @@ Github 저장소의 Readme.md
 
 Display 속성은 CSS의 레이아웃을 잡아주는데 중요한 역활을 한다.  
 display 속성은 크게 2가지로 나눌수 있다.  
-**Block과 Inline**  
+#### **Block과 Inline**  
 **Block**는 화면을 한줄로 다차지한다.즉 width가 full로 사용을 하여 화면을 한줄로 다차지한다.  
 Block를 사용하는 태그에는  
 div h1..h6 p from header section 가 있다.  
@@ -56,8 +56,8 @@ div,p,h1{
 ```
 이다  
 네비게이션을 만들때, 태그를 일렬로 배치하고 싶을때 주로 사용한다.  
-**단점 : inline요소는 margin요소나 padding 요소를 적용 할 수 없다.line-height도 적용불가**
-### Ther Reuslt
+#### **단점 : inline요소는 margin요소나 padding 요소를 적용 할 수 없다.line-height도 적용불가**
+### Ther Reuslt : ↓
 ![inline](https://user-images.githubusercontent.com/32647144/65559378-6c245980-df75-11e9-9255-1acb6228987f.png)
 
 Block 요소는 한칸한칸이아니라 한줄을 차지하는 방식이다.
@@ -86,7 +86,7 @@ div,p,span{
 }
 ```
 이다  
-## The Reuslt
+## The Reuslt : ↓
 ![block](https://user-images.githubusercontent.com/32647144/65559377-6c245980-df75-11e9-9ab0-b35c91519642.png)
 
 inline요소에는 입맛대로 커스텀을 하지못하여 나온게 inline-block라는 요소다  
