@@ -88,7 +88,7 @@ div,p,span{
 이다  
 ## The Reuslt : ↓
 ![block](https://user-images.githubusercontent.com/32647144/65559377-6c245980-df75-11e9-9ab0-b35c91519642.png)
-
+### **Inline-Block**  
 inline요소에는 입맛대로 커스텀을 하지못하여 나온게 inline-block라는 요소다  
 가장 중요한것은 성질 자체는 inline을 따라가되 커스틈을 할 수 있도록 나온것이
 ```css
