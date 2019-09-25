@@ -11,7 +11,8 @@ overflow 속성은 크게 4가지가 있다.
 -scroll : 크기를 벗어나면 content에 스크롤이 생성된다.  
 -auto : scroll 과 비슷하지만 필요할때만 스크롤을 보여준다.  
 <blockquote style="background-color:pink">
-    :exclamation:Note:exclamation: : overflow 속성은 오직 block 요소에만 적용됩니다.</br>
+    :exclamation:Note:exclamation: </br> 
+    overflow 속성은 오직 block 요소에만 적용됩니다.</br>
     즉, div p h1..h6 section 등에만 적용되고</br>
     inline 요소에는 적용되지 않습니다.</br>
     :boom: a,img,span tag :boom:
@@ -21,6 +22,7 @@ overflow 속성은 크게 4가지가 있다.
 ```css
     a,img,span{
         display:block;
+        overflow:hidden;
     }
 ```
 like this
@@ -48,7 +50,7 @@ like this
                 Great art is an instant arrested in eternity.
     </div>
 ```
-라는 html 소스에서 css만 바꿔 적용시켜보겠습니다.  
+라는 div로 감싼 html 소스에서 css만 바꿔 적용시켜보겠습니다.  
 ## **overflow:visible**
 ```css
     .overflow_Test{
