@@ -1,6 +1,6 @@
 Github 저장소의 Readme.md  
 :heart_eyes: :grin: :open_mouth: :muscle: :pig:
-# *Display 예제*  
+# *Display 사용법*  
 > +2019.09.25 우리는 왜 Display 속성을 사용하는가?
 
 Display 속성은 CSS의 레이아웃을 잡아주는데 중요한 역활을 한다.  
