@@ -1,5 +1,5 @@
 <p align="center">
-  <span font-size="24px">Github 저장소의 Readme.md</sapn> </br>
+  <span fontSize="24px">Github 저장소의 Readme.md</sapn> </br>
 :full_moon_with_face: :blush: :seedling: :bell: :koala: :octocat:  
 </p>  
 
