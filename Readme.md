@@ -1,5 +1,7 @@
+<p align="center">
 Github 저장소의 Readme.md  
 :full_moon_with_face: :blush: :seedling: :bell: :koala: :octocat:  
+</p>
 # *이모티콘 예제*
 >+ 2019.09.24 이모티콘 예제  
 
