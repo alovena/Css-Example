@@ -1,5 +1,5 @@
 <p align="center">
-  # *이모티콘 예제*
+  <span style="font-size:30px">이모티콘 예제</span>
 :full_moon_with_face: :blush: :seedling: :bell: :koala: :octocat:  
 </p>  
 
