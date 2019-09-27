@@ -1,7 +1,8 @@
 <p align="center">
-  <span font-size="24px">Github 저장소의 Readme.md</sapn>
+  <span font-size="24px">Github 저장소의 Readme.md</sapn> </br>
 :full_moon_with_face: :blush: :seedling: :bell: :koala: :octocat:  
 </p>  
+
 # *이모티콘 예제*
 >+ 2019.09.24 이모티콘 예제  
 
