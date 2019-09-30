@@ -30,3 +30,4 @@ float 를 사용을 하지않으면 none가 기본 설정값이다.
 ![float-left](https://user-images.githubusercontent.com/32647144/65856938-c8d0ab80-e39d-11e9-8884-f6e12fd57fce.png)
 
   
+사진의 바로옆에 글귀가 붙는다.  
