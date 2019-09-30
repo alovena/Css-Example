@@ -30,17 +30,9 @@ float 를 사용을 하지않으면 none가 기본 설정값이다.
 ![float-left](https://user-images.githubusercontent.com/32647144/65856938-c8d0ab80-e39d-11e9-8884-f6e12fd57fce.png)
 
   
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-img { float:left; }
-</style>")
-
-<style type="text/css" rel="stylesheet">
-img { float: left; }
-</style>
 
 <p>
-<img src="https://placeimg.com/320/320/2" alt="" />
+<img src="https://placeimg.com/320/320/2" alt="" style="float: right;" />
 Think like a man of action and act like man of thought.
             Courage is very important. Like a muscle, it is strengthened by use.
             Life is the art of drawing sufficient conclusions from insufficient premises.
