@@ -30,24 +30,3 @@ float 를 사용을 하지않으면 none가 기본 설정값이다.
 ![float-left](https://user-images.githubusercontent.com/32647144/65856938-c8d0ab80-e39d-11e9-8884-f6e12fd57fce.png)
 
   
-
-<p>
-<img src="https://placeimg.com/320/320/2" alt="" style="float: right;" />
-Think like a man of action and act like man of thought.
-            Courage is very important. Like a muscle, it is strengthened by use.
-            Life is the art of drawing sufficient conclusions from insufficient premises.
-            By doubting we come at the truth.
-            A man that hath no virtue in himself, ever envieth virtue in others.
-            When money speaks, the truth keeps silent.
-            We give advice, but we cannot give conduct.
-            Nature never deceives us; it is always we who deceive ourselves.
-            Forgiveness is better than revenge.
-            We never know the worth of water till the well is dry.
-            Pain past is pleasure.
-            Books are ships which pass through the vast seas of time.
-            Who begins too much accomplishes little.
-            Better the last smile than the first laughter.
-            Faith is a higher faculty than reason.
-            Until the day of his death, no man can be sure of his courage.
-            Great art is an instant arrested in eternity.
-</p>
