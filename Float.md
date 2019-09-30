@@ -20,7 +20,7 @@ Today should learn
             Life is the art of drawing sufficient conclusions from insufficient premises.
             By doubting we come at the truth.
             A man that hath no virtue in himself, ever envieth virtue in others.
-    <img src="https://placeimg.com/320/320/2" alt=""/>
+    <img src="https://placeimg.com/320/320/2" alt="" style="float:none"/>
             When money speaks, the truth keeps silent.
             We give advice, but we cannot give conduct.
             Nature never deceives us; it is always we who deceive ourselves.
