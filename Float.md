@@ -46,7 +46,7 @@ float 를 사용을 하지않으면 none가 기본 설정값이다.
         }
 </style>
 ```
-<p><img src="https://placeimg.com/320/320/2" alt="" style="float:left"/>
+<p><img src="https://placeimg.com/320/320/2" alt="" style="float:left;border:1px solid black"/>
 Think like a man of action and act like man of thought.
             Courage is very important. Like a muscle, it is strengthened by use.
             Life is the art of drawing sufficient conclusions from insufficient premises.
