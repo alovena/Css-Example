@@ -15,12 +15,13 @@ Today should learn
 >:bumb:div,p,h1..h6,selection 등 float속성 사용시 block->inline으로 변경:bumb:
 ## **float:none**
 
-<p>Think like a man of action and act like man of thought.
+<p>
+<img src="https://placeimg.com/320/320/2" alt="" style="float:none"/>
+Think like a man of action and act like man of thought.
             Courage is very important. Like a muscle, it is strengthened by use.
             Life is the art of drawing sufficient conclusions from insufficient premises.
             By doubting we come at the truth.
             A man that hath no virtue in himself, ever envieth virtue in others.
-    <img src="https://placeimg.com/320/320/2" alt="" style="float:none"/>
             When money speaks, the truth keeps silent.
             We give advice, but we cannot give conduct.
             Nature never deceives us; it is always we who deceive ourselves.
@@ -45,12 +46,12 @@ float 를 사용을 하지않으면 none가 기본 설정값이다.
         }
 </style>
 ```
-<p>Think like a man of action and act like man of thought.
+<p><img src="https://placeimg.com/320/320/2" alt="" style="float:left"/>
+Think like a man of action and act like man of thought.
             Courage is very important. Like a muscle, it is strengthened by use.
             Life is the art of drawing sufficient conclusions from insufficient premises.
             By doubting we come at the truth.
             A man that hath no virtue in himself, ever envieth virtue in others.
-    <img src="https://placeimg.com/320/320/2" alt="" style="float:left"/>
             When money speaks, the truth keeps silent.
             We give advice, but we cannot give conduct.
             Nature never deceives us; it is always we who deceive ourselves.
