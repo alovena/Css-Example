@@ -1,7 +1,12 @@
-Github 저장소의 Readme.md  
+<h1 align="center">이모티콘 예제</h1>
+
+>+ 2019.09.24 이모티콘 예제 등록
+<p align="center">
 :full_moon_with_face: :blush: :seedling: :bell: :koala: :octocat:  
-# *이모티콘 예제*
->+ 2019.09.24 이모티콘 예제  
+</p>  
+
+
+
 
 ## *Bootstrap5*
 ```html
