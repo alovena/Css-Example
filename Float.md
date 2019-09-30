@@ -36,8 +36,8 @@ Today should learn
     </p>
 '''
 
-## The Result:none ↓
-img
+## The Result:none ↓  
+img1
 
 ## **float:left**
 '''css
@@ -48,4 +48,4 @@ img
 </style>
 '''
 ## The Result:none ↓
-img
+img2
