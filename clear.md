@@ -10,7 +10,7 @@
 >2. overflow 속성 적용
 >3. 가상요소 ::after를 사용(권장)
 
-# **1. clear 속성사용**
+1. clear 속성을 사용
 ```css
     .divstyle{
         width:200px;
@@ -38,9 +38,9 @@
     </div>
 ```
 # **The Result**
-![result1](https://user-images.githubusercontent.com/32647144/65943048-8aa0be00-e469-11e9-8cfc-3db898a73b22.png)
+result1
 
-# **2. Overflow 적용 => 의도와는 크기가 벗어나는것을 해결**
+2. overflow 적용 하여 의도와는 크기가 벗어나는것을 해결
 ```css
     div{
         border:1px solid yellow;
@@ -74,8 +74,8 @@
     </div>
 ```
 # **The Result**
-![result2](https://user-images.githubusercontent.com/32647144/65943050-8aa0be00-e469-11e9-85b9-02af6be5591e.png)
-# **3. 가상요소 ::after을 사용**
+result2
+3. 가상요소 ::after을 사용
 ```css
 .clearfix::after {
   content: "";
@@ -104,5 +104,3 @@
         Pain past is pleasure.
     </div>
 ```
-# **The result**
-![result3](https://user-images.githubusercontent.com/32647144/65943052-8aa0be00-e469-11e9-86d8-f15aed50a994.png)
