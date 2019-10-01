@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+    
+    .clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+    img{
+        float:right;
+    }
+    div{
+        border:1px solid red;
+    }
+    </style>
+</head>
+<body>
+    <div class="divstyle">
+        <h1>Without clearfix</h1>
+        <img src="https://placeimg.com/128/128/2"/>
+        Think like a man of action and act like man of thought.
+            Courage is very important. Like a muscle, it is strengthened by use.
+            Life is the art of drawing sufficient conclusions from insufficient premises.
+            By doubting we come at the truth.
+    </div>
+    <p style="clear:right">to solve clearfix</p>
+    
+    <div class="clearfix">
+            <h1>With clearfix</h1>
+            <img src="https://placeimg.com/128/128/2"/>
+        We give advice, but we cannot give conduct.
+        Nature never deceives us; it is always we who deceive ourselves.
+        Forgiveness is better than revenge.
+        We never know the worth of water till the well is dry.
+        Pain past is pleasure.
+    </div>
+</body>
+</html>
