@@ -38,7 +38,7 @@
     </div>
 ```
 # **The Result**  
-![result1](https://user-images.githubusercontent.com/32647144/65943048-8aa0be00-e469-11e9-8cfc-3db898a73b22.png)
+![result2](https://user-images.githubusercontent.com/32647144/65943050-8aa0be00-e469-11e9-85b9-02af6be5591e.png)
 
 # **2.Overflow 적용 => 의도와는 크기가 벗어나는것을 해결**
 ```css
