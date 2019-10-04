@@ -53,7 +53,9 @@ html, body, .container {
     transform: translateX(-50%) translateY(-50%);
 }
 ```
-# img align center
+
+<div align="center"><h1>img align center<h1></div> 
+
 ```css
 img{
     display:block;
