@@ -1,9 +1,10 @@
 <h1 align="center">Align Example</h1>
 
-> # 2019.10.04 Align 예제 등록
-<div align="center">:bulb: :couple: :boy: :cop: :angel:
+> ### 2019.10.04 Align 예제 등록
+<div align="center">:bulb: :couple: :boy: :cop: :angel:</div>
 
-# margin:auto & padding :10px 방법
+<div align="center"><h1> margin:auto & padding :10px 방법<h1></div>
+
 ```css
 .center{
     margin:auto;
@@ -18,7 +19,9 @@
 </div> 
 ```
 ![margin-auto](https://user-images.githubusercontent.com/32647144/66220563-35cea300-e708-11e9-92a7-e183d0d087ee.png)
-# text-align:cetner 방법
+
+<div align="center"><h1>text-align:cetner 방법<h1></div>
+
 ```css
 .center{
     text-align:center;
@@ -32,7 +35,9 @@
 </div> 
 ```
 ![text-align](https://user-images.githubusercontent.com/32647144/66220564-35cea300-e708-11e9-8850-da6dea47e261.png)
-# Using position&transform 방법
+
+<div align="center"><h1>Using position&transform 방법<h1></div> 
+
 ```css
 html, body, .container {
     height: 100%;
